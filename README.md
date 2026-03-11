@@ -1,18 +1,21 @@
-Calculator Web App
+**Calculator Web App**
+
 A simple calculator built using HTML, CSS and JavaScript.
 
-Features
+**Features**
 - Basic arithmetic operations
 - Responsive design
 - Simple UI
 
-Technologies
+**Technologies**
 - HTML
 - CSS
 - JavaScript
 
-Live Demo
+**Live Demo**
+
 https://riejan13.github.io/calculator-web-app/
 
-Author
+**Author**
+
 Rijan Rana
